@@ -1,0 +1,5 @@
+# Q1, Q2, Q6, Q7, Q8, Q9 use only the Python standard library.
+mysql-connector-python    # Q3, Q4, Q5
+pandas                    # Q10
+matplotlib                # Q10
+# Q5 also needs Tkinter (included with Python on Windows/macOS; Linux: sudo apt install python3-tk)
